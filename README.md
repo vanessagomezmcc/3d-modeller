@@ -2,7 +2,7 @@
 
 A browser-based 3D modeling tool built with React, TypeScript, Three.js, and React Three Fiber. Inspired by the "3D Modeller" chapter from [*500 Lines or Less*](https://aosabook.org/en/500L/a-3d-modeller.html), rebuilt as a modern web application with a desktop-style interface.
 
-**Live demo:** _add your deployment URL here_
+**Live demo:** (https://3d-modeller-five.vercel.app/ )
 
 **Screenshot:** add a capture of the sample scene at `docs/screenshot.png` and reference it here (this path is also noted in `index.html` for the social preview image).
 
